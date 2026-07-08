@@ -31,21 +31,6 @@
   <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanramadhani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanramadhani&theme=tokyonight&hide_border=true&background=0D1117" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanramadhani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</p>
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanramadhani&theme=tokyo-night&hide_border=true&bg_color=0D1117">
-</p>
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://wa.me/62895705125194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
