@@ -1,38 +1,49 @@
+<!-- Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adnan%20Ramadhani&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 <h1 align="center">Hi, I'm Adnan Ramadhani 👋</h1>
 <h3 align="center">Bot Developer | A Writer | and gamers</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;WhatsApp+Bot+with+Shirayukino+Software;EVOS+Esports+Fans+%7C+Blue+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adnanramadhani.adnanramadhani" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adnanramadhani.adnanramadhani&left_color=%23222&right_color=%2358A6FF" alt="visitor badge"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on: **WhatsApp Bot with Shirayukino Software**
-- 🌱 Tech Stack: `Node.js` `Go` `MongoDB` `Baileys`
-- ⚡ Information: 18 Years Old, I like EVOS Esport and everything with blue color
-- 🎮 Interests: Coding, Literature, and Gaming
+- 🔭 **Currently working on:** WhatsApp Bot with Shirayukino Software
+- 🌱 **Tech Stack:** `Node.js` `Go` `MongoDB` `Baileys`
+- ⚡ **Information:** 18 Years Old, I like EVOS Esport and everything with blue color
+- 🎮 **Interests:** Coding, Literature, and Gaming
 
 ### 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </p>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanramadhani&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanramadhani&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanramadhani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanramadhani&theme=tokyonight&hide_border=true&background=0D1117" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanramadhani&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanramadhani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanramadhani&theme=tokyo-night&hide_border=true&bg_color=0D1117">
 </p>
 
 ### 🌐 Connect With Me
@@ -43,9 +54,15 @@
   <a href="mailto:adnanramadhani1009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+### 💙 Favorite
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-EVOS%20Esports-0057B8?style=for-the-badge&logo=esports&logoColor=white">
+  <img src="https://img.shields.io/badge/Color-Blue-58A6FF?style=for-the-badge">
+</p>
+
 ---
 
-<!-- Wave Animation Footer -->
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
