@@ -40,7 +40,7 @@
 ### 🏆 Favorite Team
 <p align="center">
   <a href="https://evos.gg" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/EVOS_Esports_logo.png" width="100" alt="EVOS Esports"/>
+    <img src="https://i.imgur.com/W3YQbQv.png" width="100" alt="EVOS Esports"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/EVOS%20ESPORTS-0057B8?style=for-the-badge&logo=esports&logoColor=white">
